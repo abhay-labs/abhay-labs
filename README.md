@@ -1,3 +1,5 @@
+![logo](https://github.com/abhay-labs/abhay-labs/blob/main/Black%20Maximalist%20Black%20Friday%20Sale%20%20Linkedin%20Banner%20-%20Made%20with%20PosterMyWall%20(1)-Picsart-AiImageEnhancer.jpg)
+
 <h1 align="center">Hi 👋, I'm Abhay Jaiswal</h1>
 <h3 align="center">⭐ "AI & Backend Developer | Building Smart & Scalable Systems"</h3>
 
